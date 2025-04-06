@@ -8,15 +8,18 @@
 
 *Texto em itálico*
 
-- Lista com marcadores
-- Outro item
+### Nota de responsabilidade⚠️
 
-1. Lista numerada
-2. Outro item
+- Esse projeto é para fins educacionais.
+- Você precisa de uma autorização explicita para usar a ferramente em contas de terceiros.
+- Usar essa ferramenta em contas de terceiros é contra a lei brasileira.
+- O uso dessa ferramenta é de responsabilidade do usuario, não nos responsabilizamos pelo uso.
 
 [Desenvolvedor](https://github.com/s41r4j)
 
-`código em linha`
+##Usando a ferramenta
+
+`python3 passgram.py -u USUARIO -w `
 
 ```linguagem
 // Bloco de código
