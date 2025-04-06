@@ -1,12 +1,10 @@
 # PASSGRAM
 
 ## Ferramenta de força bruta em contas de instagram por Wordlist
+**NÃO USE SEM AUTORIZAÇÃO**
 
-### Tópico menor (usa 3 ###)
-
-**Desenvolvido por **
-
-*Texto em itálico*
+### Creditos da ferramenta
+A base da ferramenta foi desenvolvida por [s41r4j](https://github.com/s41r4j), e foi traduzida/aprimorada por toji404.
 
 ### Nota de responsabilidade⚠️
 
@@ -15,7 +13,7 @@
 - Usar essa ferramenta em contas de terceiros é contra a lei brasileira.
 - O uso dessa ferramenta é de responsabilidade do usuario, não nos responsabilizamos pelo uso.
 
-[Desenvolvedor](https://github.com/s41r4j)
+*Texto em itálico*
 
 ##Usando a ferramenta
 
